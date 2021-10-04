@@ -1,0 +1,136 @@
+GET https://zango.com.au/api/pages/70/?property_class=rental&listing_type=lease&surrounding=true&bedrooms__gte=1&price__gte=50&price__lte=10000&order_by=price&property_status_groups=current,underOffer,includePrivate&bedrooms__lte=1&filters=1&page=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-03-16T031139.200.json
+
+###
+
+GET https://zango.com.au/api/pages/70/?property_class=rental&listing_type=lease&surrounding=true&bedrooms__gte=1&price__gte=50&price__lte=10000&order_by=price&property_status_groups=current,underOffer,includePrivate&bedrooms__lte=1&filters=1&page=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-03-16T022741.200.json
+
+###
+
+GET https://www.realestate.com.au/rent/with-2-bedrooms-in-3690/list-1?maxBeds=2&Referer=https://www.realestate.com.au/rent/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.realestate.com.au/rent/with-2-bedrooms-in-3690/list-1?maxBeds=2&Referer=https://www.realestate.com.au/rent/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.realestate.com.au/rent/with-2-bedrooms-in-3690/list-1?maxBeds=2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.realestate.com.au/rent/with-2-bedrooms-in-3690/list-1?maxBeds=2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.realestate.com.au/rent/with-2-bedrooms-in-3690/list-1?maxBeds=2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.domain.com.au/rent/?bedrooms=2-any&bathrooms=2-any&excludedeposittaken=1&carspaces=2-any&postcode=3690
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-03-16T123559.200.html
+
+###
+
+GET https://www.realestate.com.au/rent/with-1-bedroom-between-0-5000/list-1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.realestate.com.au/rent/with-1-bedroom-between-0-5000/list-1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.realestate.com.au/rent/with-1-bedroom-between-0-5000/list-1?bedrooms=2-any&excludedeposittaken=1&maxBeds=2&property_class=rental&listing_type=lease&surrounding=true&bedrooms__gte=1&price__gte=50&price__lte=10000&order_by=price&property_status_groups=current,underOffer,includePrivate&bedrooms__lte=1&filters=1&page=1&maxBeds=2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://zango.com.au/api/pages/70/?bedrooms=2-any&excludedeposittaken=1&maxBeds=2&property_class=rental&listing_type=lease&surrounding=true&bedrooms__gte=1&price__gte=50&price__lte=10000&order_by=price&property_status_groups=current,underOffer,includePrivate&bedrooms__lte=1&filters=1&page=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-03-14T123033.200.json
+
+###
+
+GET https://www.realestate.com.au/rent/with-1-bedroom-between-0-5000?bedrooms=2-any&excludedeposittaken=1&maxBeds=2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-03-14T121447.404.html
+
+###
+
+GET https://www.realestate.com.au/rent/with-1-bedroom-between-0-5000/list-1?bedrooms=2-any&excludedeposittaken=1&maxBeds=2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.realestate.com.au/rent/with-1-bedroom-between-0-5000/list-1?bedrooms=2-any&excludedeposittaken=1&maxBeds=2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.domain.com.au/rent/indented-head-vic-3223/?bedrooms=2-any&excludedeposittaken=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-03-13T111407.200.html
+
+###
+
+POST https://www.allhomes.com.au/wsvc/search/rent-residential
+Accept: */*
+Cache-Control: no-cache
+
+{"page":1,"pageSize":50,"sort":{"criteria":"PRICE","order":"ASC"},"filters":{"localities":[{"type":"REGION","slug":"canberra-act"},{"type":"DISTRICT","slug":"greater-queanbeyan-queanbeyan-region-nsw"}],"beds":{"min":4,"max":4}},"results":{"type":"LIST"}}
+
+<> 2021-03-13T064630.200.json
+
+###
+
+POST https://www.allhomes.com.au/wsvc/search/rent-residential
+Accept: */*
+Cache-Control: no-cache
+
+{'page':1,'pageSize':50,'sort':{'criteria':'PRICE','order':'ASC'},'filters':{'localities':[{'type':'REGION','slug':'canberra-act'},{'type':'DISTRICT','slug':'greater-queanbeyan-queanbeyan-region-nsw'}],'beds':{'min':1,'max':1}},'results':{'type':'LIST'}}
+
+<> 2021-03-13T064208.400.json
+
+###
+
+POST https://www.allhomes.com.au/wsvc/search/rent-residential
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-03-13T064026.400.json
+
+###
+
